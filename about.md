@@ -13,4 +13,4 @@ Information Security and minoring in Computer Science.
 
 ### Contact me
 
-[galexford@gmail.com](mailto:galexford@gmail.com)
+[galexisford@gmail.com](mailto:galexford@gmail.com)
